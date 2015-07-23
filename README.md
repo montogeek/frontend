@@ -12,7 +12,6 @@ Algo muy importante es que trabajarás en colaboracion con otros estudiantes sob
 - Utilizar un editor de texto. Nuestro favorito es [Sublime Text](http://www.sublimetext.com/2).
 
 ## Temas [WIP]
- - [Conceptos previos](/conceptos-previos.md)
  - [Introducción - Hola Mundo!](/hola-mundo.md)
  - [Unidad 1 - HTML](/html.md)
  - [Unidad 2 - CSS](/css.md)

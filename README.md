@@ -1,6 +1,6 @@
 # Introducción al desarrollo Front-end
 
-El desarrollo de front-end se focaliza en el diseño, estrucutra e interacción de los sitios web. Los conocimientos sobre front-end son muy importante para diseñadores, periodistas, escritores y cualquiera que genere contenido el cual pueda ser accedido desde la web.
+El desarrollo de front-end se focaliza en el diseño, estructura e interacción de los sitios web. Los conocimientos sobre front-end son muy importante para diseñadores, periodistas, escritores y cualquiera que genere contenido el cual pueda ser accedido desde la web.
 
 A lo largo del curso, aprenderás los fundamentos de cómo funciona la web y obtendrás conocimientos sobre tres lenguajes fundamentales a la hora de crear un sitio web: HTML, CSS y JavaScript.
 
